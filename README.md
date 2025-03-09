@@ -81,6 +81,3 @@ If you have any questions or need support, please open an issue or contact the m
 ---
 
 Made with ❤️ by [Somdipto](https://github.com/somdipto)
-``
-
-Feel free to customize the content as per your requirements. This markdown includes badges, screenshots, and a structured format to make the README visually appealing.
