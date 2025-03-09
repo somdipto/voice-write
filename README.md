@@ -1,6 +1,3 @@
-I can help you create a README.md file for your repository with a visually appealing design. Here is a sample README.md file with cool UI elements using markdown:
-
-```markdown
 # Voice Write 🎤✍️
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/somdipto/voice-write?style=social)
